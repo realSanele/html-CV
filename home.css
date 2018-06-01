@@ -1,0 +1,92 @@
+.nav{
+    height: 40px;
+    background-color: darkgray;
+}
+
+.nav ul li{
+    font-size: 30px;
+    display: inline;
+    margin-left: 20px;
+}
+
+.nav ul li a{
+    background-color: rgba(155, 250, 2, 0.897);
+    color: black;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+table,th,td{
+    border: 5px solid orange;
+}
+
+table{
+    margin: auto;
+    width: 50%;
+}
+
+P{
+  text-align: center;  
+}
+
+.div1 p{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+}
+
+.div1{
+    margin: auto;
+    width: 50px;
+}
+
+.contact_form form{
+    padding-left: 45%;
+    position: fixed;
+    margin: auto;
+}
+
+
+#name, #email{
+    background-color: antiquewhite;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    width: 300px;
+    height: 35px;
+    border: 3px solid orange;
+}
+
+#submit{
+    background-color: green;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    width: 300px;
+    height: 35px;
+}
+
+#feedback{
+    background-color: antiquewhite;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    width: 300px;
+    height: 150px;
+    border: 3px solid orange;
+}
+
+footer{
+    text-align: center;
+    background-color: grey;
+    height: 50px;
+    bottom: 0px;
+    width: 100%;
+    position: fixed;
+    vertical-align: middle;
+    line-height: normal;
+    padding: 0px;
+}
